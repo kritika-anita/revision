@@ -1,16 +1,19 @@
 {
-  "name": "test-file",
+  "name": "revising",
   "version": "1.0.0",
-  "description": "",
+  "description": "Revising my concepts here.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kritika-anita/revision.git"
+  },
   "author": "",
-  "license": "ISC"
-}
-
-
-{
-  "@hello": "Created this file to revise if I cancreate a package.json!",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kritika-anita/revision/issues"
+  },
+  "homepage": "https://github.com/kritika-anita/revision#readme"
 }
